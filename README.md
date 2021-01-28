@@ -1,6 +1,6 @@
 # In the cold ground
 ### Игра, созданная за 4 дня в рамках джема на тему изоляция.
-![](https://github.com/AlexSergo/AlexSergo/blob/master/assets/header.jpg)
+![](https://leonardo.osnova.io/ec611bdd-4427-5003-99b6-d207a0d03e0a/)
 ### Жанр
 Детектив
 ### Цель игры
