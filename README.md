@@ -15,4 +15,3 @@
 ## Ульяна Порягина - художник
 
 ![](https://leonardo.osnova.io/fb8067ce-0964-5527-ad89-19ce9231ea24/)
-![](https://vk.com/doc157476243_602399603?hash=4cfc1fa2027b491af1&dl=081e261cf53bc0bf6c)
